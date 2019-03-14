@@ -1,0 +1,11 @@
+{
+    "files_dir_path": "..\\files",
+    "downloads_dir_path": "..\\downloads",
+    "min_size": 1000,
+    "max_size": 1000000,
+    "number_of_processes": 2,
+    "service_url": "http://127.0.0.1:8080/anagy/",
+    "client_name": "test",
+    "dump_list": true,
+    "cleanup": true
+}
